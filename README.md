@@ -1,0 +1,9 @@
+The Dose Makes the Poison: Behavioral Response of the Southern Redbelly Dace (*Chrosomus erythrogaster*) to Chondroitin
+
+Erin Schwarzbach
+
+Abstract:
+Social organisms are kown to use chemical alarm cues, which warn conspeciics of presence of predators. A well-known case of this is seen in ostariophysan fishes in the form of "Schrecksoff". Historically, an extract made of skin has been used to test fish for their fright response, however it is difficult to determine concentrations and ensure consistency among trials and across species. Recently, biochemical reactionation has revealed that chondroitin is a major component of zebrafish skin extract, and it has been hypothesized that all ostariophysans will react to chondroitin in a similar fashion to skin extract. The objective of this study was to determine if chondroitin is an effectivce alarm substance for the Southern RedBelly Dace (*Chrosomus erythrogaster*). To better understand the role of chondroitin for this species, I designed a lab experiment in which fish were exposed to either skin extract or chondroitin stimulus. A 0.07 gram chondroitin stimulus was used as it is a standard in previous studies. 0.07 grams of chondroitin is more than the amount of chondroitin in a skin extract sample for this species. The behavior of the fish were compared before and after they were treated with the randomly assigned stimulus. The fish in tanks treated with skin extract had a significant increase in speed (p=0.05) as expected, however, there was no significant increase in speed (p=0.09) seen in fish exposed to chondroitin. These results do no surrport the hypothesis that chondroitin is an effective alarm substance. 
+
+This repository is for my masters thesis which focuses on the fright response of the Southern Redbelly Dace. Click the following link to view my webpage: https://eschwarzbach.github.io/MastersThesis/
+
